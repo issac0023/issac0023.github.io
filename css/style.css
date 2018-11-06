@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: lightblue;
+  color: black;
+  font-family: 'Overpass Mono', monospace;
+  padding: 20px;
+}
+
+iframe {
+  width: 100%;
+  height: 50vh
+}
+
+.links {
+  margin: 0 auto;
+  text-align:center;
+  font-size: 1.5em;
+}
+
+.links a {
+  color: #174fa8;
+}
+#instagram {
+  color: rgb(23, 79, 168);
+  text-align: center;
+  margin: 0 auto;
+}
+
+.gallery{
+  margin-top: 20px;
+}
